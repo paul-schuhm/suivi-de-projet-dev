@@ -70,6 +70,14 @@ Objectifs *secondaires* de votre système (ou qualités du système) : qualité,
 - Liste des abréviations et des conventions
 - **Dictionnaire des données** (pour conception de la base de données)
 - Lien vers votre dépôt
-- Compte rendus de réunions (CR)
+- Compte rendus de vos réunions (CR). Un CR contient au moins
+  - date
+  - lieu
+  - durée réunion
+  - personnes présentes
+  - ordre du jour (de quoi on parle)
+  - résumé des décisions prises sur chaque point de l'ordre du jour
+  - actions à mener (ce que chacun doit faire pour réaliser les décisions)
+  - commentaires: ce qu'il s'est bien passé ou non
 - Lien vers votre suivi des tâches si vous en utilisez un (Trello, etc.)
 - Stack technique: les outils utilisés (avec leurs versions) pour chaque partie de votre système
