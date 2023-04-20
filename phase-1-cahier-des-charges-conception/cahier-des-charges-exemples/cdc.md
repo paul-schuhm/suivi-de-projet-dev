@@ -40,6 +40,11 @@ Exemples:
 - Elles sont orgniasées sous forme de liste
 - chaque exigence est priorisée
 
+> Spécification: translation au format texte d'une exigence (besoin exprimé et débattu, clarifié par toutes les parties). Doit être claire et brève. Quelques templates de specifications:
+> - Le système doit ...
+> - Dans le cas de ..., le système doit ...
+> - Dans le cas où <acteur> fait ..., le système doit ...
+
 ## Exigences *non fonctionnelles*
 
 qualité, fiabilité, sécurité 
