@@ -6,9 +6,8 @@ Documentation pour élaborer le cahier des charges du projet. Un document à con
   - [Élaboration: Modèle de cycle de vie logiciel](#élaboration-modèle-de-cycle-de-vie-logiciel)
   - [Concepts](#concepts)
   - [Risques](#risques)
-  - [Template de cahier des charges](#template-de-cahier-des-charges)
+  - [*Template* de cahier des charges](#template-de-cahier-des-charges)
   - [Démo](#démo)
-  - [Outils](#outils)
   - [Références](#références)
 
 
@@ -32,11 +31,11 @@ Un *bon* cahier des charges :
 
 ## Risques
 
-- bien *contrôler* les modifications
+- mal *contrôler* les modifications
 - *surspecifier* (donner trop de détails)
 - *sous-specifier* (en donner pas assez)
 
-## Template de cahier des charges
+## *Template* de cahier des charges
 
 1. **Contexte** : Concepts. Description de l'existant
 2. **Objectifs** : définition des objectifs du produit. Pour chaque objectif: énoncé, bénéfices attendus, indicateurs de mesure.
@@ -53,16 +52,16 @@ Un *bon* cahier des charges :
     3.  Documentation technique (diagrammes UML)
 11. **Annexes**
     1.  Liste des abréviations et des conventions
-    2.  **Dictionnaire des données** ,=> conception de la base de données
+    2.  **Dictionnaire des données** => conception de la base de données
 
-> Ce document servira à valider votre projet.
+> Ce document servira à **valider** votre projet.
 
 ## Démo
 
-[Un cahier des charges démo](./cahier-des-charges-exemples/cdc.md), avec instructions
-
-## Outils
-
-- Dessiner, exporter des diagrammes UML facilement: [Umlet](https://www.umlet.com/)
+[Un cahier des charges démo](./cahier-des-charges-exemples/cdc.md), avec instructions/exemples/suggestions
 
 ## Références
+
+- Dessiner, exporter des diagrammes UML facilement: [Umlet](https://www.umlet.com/)
+- [Description textuelle des cas d'utilisation](https://laurent-audibert.developpez.com/Cours-UML/?page=diagramme-cas-utilisation#L2-5-3), de la doc sur le sujet sur developpez.com
+
