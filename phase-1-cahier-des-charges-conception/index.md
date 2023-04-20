@@ -31,7 +31,7 @@ Un *bon* cahier des charges :
 3. **Acteurs**: *utilisateurs*/rôles (diagramme d'acteurs)
 4. **Périmètre du système**: (diagramme de cas d'utilisation), interfaces avec d'autres systèmes
 5. **Règles métiers** (ou règles de gestion): dérive des lois, règlements, procédures, bonnes pratiques dans un métier donné, règles de calcul (ex: RGPD). Exemple: *Si la date du jour est supérieure à la date de consommation, le produit est périmé.* *Le pharmacien doit analyser la prescription médicale avant de délivrer un médicament à un·e patient·e.*
-6. **Description des cas d'utilisation**
+6. **Description textuelle des cas d'utilisation**
 7. **Exigences fonctionnelles** : ce que votre système doit faire, comment il se comporte. Organisé sous forme de liste priorisée.
 8. **Exigences *non fonctionnelles***: qualité, fiabilité, sécurité 
 9. **Contraintes** : techniques, performances
