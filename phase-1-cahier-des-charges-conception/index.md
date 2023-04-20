@@ -44,3 +44,9 @@ Un *bon* cahier des charges :
     2.  **Dictionnaire des données** ,=> conception de la base de données
 
 > Ce document servira à valider votre projet.
+
+## Outils
+
+- Dessiner, exporter des diagrammes UML facilement: [Umlet](https://www.umlet.com/)
+
+## Références
