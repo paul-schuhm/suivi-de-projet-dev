@@ -4,6 +4,8 @@
 
 >Concepts. Description de l'existant
 
+>Composition du projet: les différents composants (rester général). Une application qui gere ceci, un site web qui expose cela, une base de données, etc.
+
 ## Objectifs
 
 >définition des objectifs du produit. Pour chaque objectif: énoncé, bénéfices attendus, indicateurs de mesure.
@@ -47,7 +49,7 @@ Exemples:
 
 ## Exigences *non fonctionnelles*
 
-Objectifs secondaires de votre système (ou qualités du système) : qualité, fiabilité, sécurité, etc. N'apporte pas de valeur *directement* mais indirectement (par exemple un système fiable et sécurisé va gagner en réputation et des utilisateurs)
+Objectifs *secondaires* de votre système (ou qualités du système) : qualité, fiabilité, sécurité, etc. N'apporte pas de valeur *directement* mais indirectement (par exemple un système fiable et sécurisé va gagner en réputation et des utilisateurs)
 
 >Exemple "Le système doit..."
 
@@ -55,7 +57,7 @@ Objectifs secondaires de votre système (ou qualités du système) : qualité, f
 
 - techniques (volume de données à heberger, format des données, bande passante )
 - performances
-- **Contraintes imposées par l'école** (pré-requis pour valider les compétences, et utilisation d'un lanage orienté objet)
+- **Contraintes imposées par l'école** (pré-requis pour valider les compétences, et utilisation d'un langage orienté objet)
 
 ## Prestations attendues
 
@@ -69,4 +71,5 @@ Objectifs secondaires de votre système (ou qualités du système) : qualité, f
 - **Dictionnaire des données** (pour conception de la base de données)
 - Lien vers votre dépôt
 - Compte rendus de réunions (CR)
-- Lien vers votre suivi des tâches si un
+- Lien vers votre suivi des tâches si vous en utilisez un (Trello, etc.)
+- Stack technique: les outils utilisés (avec leurs versions) pour chaque partie de votre système
