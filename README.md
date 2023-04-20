@@ -2,16 +2,17 @@
 
 
 - [Suivi-de-projet-dev](#suivi-de-projet-dev)
-    - [Compétences à valider](#compétences-à-valider)
-    - [Modules d'enseignement envisagés pour couvrir les compétences](#modules-denseignement-envisagés-pour-couvrir-les-compétences)
-    - [Modules supplémentaires, suggérés](#modules-supplémentaires-suggérés)
+  - [Compétences à valider](#compétences-à-valider)
+  - [Modules d'enseignement envisagés pour couvrir les compétences](#modules-denseignement-envisagés-pour-couvrir-les-compétences)
+  - [Modules supplémentaires, suggérés](#modules-supplémentaires-suggérés)
   - [Pré-requis *minimum*](#pré-requis-minimum)
   - [Suggestions](#suggestions)
     - [Applis web](#applis-web)
     - [IA de jeu](#ia-de-jeu)
   - [Programme](#programme)
+  - [Planning](#planning)
 
-### Compétences à valider
+## Compétences à valider
 
 UF *Spé INGENIERIE LOGICIELLE et Base de données*
 
@@ -29,13 +30,13 @@ UF *Spé INGENIERIE LOGICIELLE et Base de données*
   - réaliser un défi technique
 
 
-### Modules d'enseignement envisagés pour couvrir les compétences
+## Modules d'enseignement envisagés pour couvrir les compétences
 
 - *Architecture logicielle*: Rappels sur le concept d'interface et les principes SOLID, Quelques design patterns (POO Avancé), Design Pattern MVC pour le web, définition et usage d'un ORM, Architecture en couches / Architecture Hexagonale: theorie et pratique => Évaluation: mini projet à rendre sur un dépôt (à faire seul)
 - *Architecture Mirco-Services*: concevoir et développer une API *RESTful* basé sur les standards du web (avec nodejs) => Évaluation : QCM
 - *Développement aynschrone*: Introduction aux protocoles SSE/Websocket => mini projet à rendre sur un dépôt (à faire seul)
 
-### Modules supplémentaires, suggérés
+## Modules supplémentaires, suggérés
 
 - *Exigences et conception*: Framework de conception avec UML, élaboration d'un document cahier des charges
 - *Gitflow*: remise à niveau et consolidation Git et Gitflow (git branching models)
@@ -79,7 +80,10 @@ UF *Spé INGENIERIE LOGICIELLE et Base de données*
 - Algorithmique: marche aléatoire, tirage dans des distributions aléatoires, arbres de décision, automate cellulaire, etc.
 - Modélisation mathématique: dynamique de populations, moteur physique (gravité, frottement, écoulements de liquide/grains, contacts et collisions, transfert de chaleur, etc.), système économique, modélisation météo, etc.
 
-
 ## Programme
 
-Voir ici [le programme](./programme.md)
+Voir [le programme](./programme.md)
+
+## Planning
+
+[Voir le planning](./planning.md) (ordres du jour, livrables pour la prochaine fois)

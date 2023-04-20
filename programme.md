@@ -1,8 +1,6 @@
 # Programme
 
-Dernière modification: 20/04/2023 à 12h45
-
-Version : 1
+Une description du programme et du cycle de développement.
 
 ## Démarrage
 
@@ -23,6 +21,7 @@ Liste des groupes
    2. **Réfléchir** à un concept, ou proposer un autre projet 
    3. **Écrire** un texte court qui présente votre projet: le *concept* (En quoi consistera-t-il ? De quoi sera-t-il fait ? Qu'est ce qui le distingue de l'existant ?) de votre projet et ses *objectifs* (Pour qui ? Pour quoi ? Quels bénéfices ?).
 
+
 ## Première phase: cahier des charges
 
 [Voir le travail sur le cahier des charges](./phase-1-cahier-des-charges-conception/index.md)
@@ -30,10 +29,6 @@ Liste des groupes
 ## Deuxième phase : conception
 
 ## Troisième phase : réalisation (implémentation)
-
-## Planning
-
-[Voir le planning](./planning.md) (ordres du jour, livrables pour la prochaine fois)
 
 ## Ressources
 

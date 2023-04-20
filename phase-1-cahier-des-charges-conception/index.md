@@ -1,10 +1,22 @@
-## Vers le "cahier des charges"
+# Vers le "cahier des charges"
 
-### Élaboration
+Documentation pour élaborer le cahier des charges du projet. Un document à convevoir au début du projet (phase de recueil des besoins, spécification), avant la conception. On le modifiera de manière itérative. Le but est d'abattre le plus de travail en amont, avant de se lancer dans la conception et surtout l'implémentation.
+
+- [Vers le "cahier des charges"](#vers-le-cahier-des-charges)
+  - [Élaboration: Modèle de cycle de vie logiciel](#élaboration-modèle-de-cycle-de-vie-logiciel)
+  - [Concepts](#concepts)
+  - [Risques](#risques)
+  - [Template de cahier des charges](#template-de-cahier-des-charges)
+  - [Démo](#démo)
+  - [Outils](#outils)
+  - [Références](#références)
+
+
+## Élaboration: Modèle de cycle de vie logiciel
 
 **Exigences** => **conception** => réalisation (implémentation) => (tests) => exploitation/mise en production => maintenance
 
-### Concepts
+## Concepts
 
 - Besoin : ressenti par une personne, exprimé plus ou moins clairement. Passés sous silence
 - Exigence : besoin qui a été discuté, notion de consensus, cible à atteindre. Mesurable, vérifiable
@@ -18,7 +30,7 @@ Un *bon* cahier des charges :
 - fait office de *contrat* moral entre les parties (en situation réelle on y adjoint un *contrat*)
 - facile à maintenir et à modifier
 
-#### Risques
+## Risques
 
 - bien *contrôler* les modifications
 - *surspecifier* (donner trop de détails)

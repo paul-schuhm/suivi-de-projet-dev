@@ -1,5 +1,14 @@
 # Planning : du 20/04/23 au 11/07/23
 
+Le planning prévisionnel du module. Définit les objectifs de chaque séance et des livrables/travail attendu au début de la séance suivante.
+
+- [Planning : du 20/04/23 au 11/07/23](#planning--du-200423-au-110723)
+  - [20/04/23 : Premier jour](#200423--premier-jour)
+    - [Ordre du jour](#ordre-du-jour)
+    - [Actions à mener (pour le 11/05/23)](#actions-à-mener-pour-le-110523)
+  - [Ressources](#ressources)
+
+
 ## 20/04/23 : Premier jour
 
 ### Ordre du jour
