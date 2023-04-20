@@ -3,14 +3,14 @@
 
 - [Suivi-de-projet-dev](#suivi-de-projet-dev)
   - [Compétences à valider](#compétences-à-valider)
+  - [Programme](#programme)
+  - [Planning](#planning)
   - [Modules d'enseignement envisagés pour couvrir les compétences](#modules-denseignement-envisagés-pour-couvrir-les-compétences)
   - [Modules supplémentaires, suggérés](#modules-supplémentaires-suggérés)
   - [Pré-requis *minimum*](#pré-requis-minimum)
   - [Suggestions](#suggestions)
     - [Applis web](#applis-web)
     - [IA de jeu](#ia-de-jeu)
-  - [Programme](#programme)
-  - [Planning](#planning)
 
 ## Compétences à valider
 
@@ -28,6 +28,14 @@ UF *Spé INGENIERIE LOGICIELLE et Base de données*
   -  construire autour d’informations asynchrones
 - BAS NIVEAU / MACHINE LEARNING
   - réaliser un défi technique
+
+## Programme
+
+[Voir le programme](./programme.md) (grandes étapes du module pour faire avancer le projet)
+
+## Planning
+
+[Voir le planning](./planning.md) (ordres du jour, livrables pour la prochaine fois)
 
 
 ## Modules d'enseignement envisagés pour couvrir les compétences
@@ -80,10 +88,3 @@ UF *Spé INGENIERIE LOGICIELLE et Base de données*
 - Algorithmique: marche aléatoire, tirage dans des distributions aléatoires, arbres de décision, automate cellulaire, etc.
 - Modélisation mathématique: dynamique de populations, moteur physique (gravité, frottement, écoulements de liquide/grains, contacts et collisions, transfert de chaleur, etc.), système économique, modélisation météo, etc.
 
-## Programme
-
-Voir [le programme](./programme.md)
-
-## Planning
-
-[Voir le planning](./planning.md) (ordres du jour, livrables pour la prochaine fois)
