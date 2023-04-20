@@ -55,7 +55,7 @@ Objectifs secondaires de votre système (ou qualités du système) : qualité, f
 
 - techniques (volume de données à heberger, format des données, bande passante )
 - performances
-- **Contraintes imposées par l'école** (pré-requi et langage POO)
+- **Contraintes imposées par l'école** (pré-requis pour valider les compétences, et utilisation d'un lanage orienté objet)
 
 ## Prestations attendues
 
