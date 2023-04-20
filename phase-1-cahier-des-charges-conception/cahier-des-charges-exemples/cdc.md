@@ -61,7 +61,7 @@ qualité, fiabilité, sécurité
 ## Annexes
 
 - Liste des abréviations et des conventions
-- **Dictionnaire des données** ,=> conception de la base de données
+- **Dictionnaire des données** (pour conception de la base de données)
 - Lien vers votre dépôt
 - Compte rendus de réunions (CR)
 - Lien vers votre suivi des tâches si un
