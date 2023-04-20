@@ -23,12 +23,11 @@ Liste des groupes
    2. **Réfléchir** à un concept, ou proposer un autre projet 
    3. **Écrire** un texte court qui présente votre projet: le *concept* (En quoi consistera-t-il ? De quoi sera-t-il fait ? Qu'est ce qui le distingue de l'existant ?) de votre projet et ses *objectifs* (Pour qui ? Pour quoi ? Quels bénéfices ?).
 
-## Première phase: cahier des charges
+## [Première phase: cahier des charges](./phase-1-cahier-des-charges-conception/index.md)
 
 ## Deuxième phase : conception
 
 ## Troisième phase : réalisation (implémentation)
-
 
 ## Ressources
 
