@@ -5,6 +5,7 @@
   - [Compétences à valider](#compétences-à-valider)
   - [Programme](#programme)
   - [Planning](#planning)
+  - [Équipes projets](#équipes-projets)
   - [Modules d'enseignement envisagés pour couvrir les compétences](#modules-denseignement-envisagés-pour-couvrir-les-compétences)
   - [Modules supplémentaires, suggérés](#modules-supplémentaires-suggérés)
   - [Pré-requis *minimum*](#pré-requis-minimum)
@@ -37,6 +38,9 @@ UF *Spé INGENIERIE LOGICIELLE et Base de données*
 
 [Voir le planning](./planning.md) (ordres du jour, livrables pour la prochaine fois)
 
+## Équipes projets
+
+[Voir les informations sur les groupes](./groupes.md) (composition des groupes, type de projet, URL du dépôt principal)
 
 ## Modules d'enseignement envisagés pour couvrir les compétences
 
