@@ -45,6 +45,10 @@ Un *bon* cahier des charges :
 
 > Ce document servira à valider votre projet.
 
+## Démo
+
+[Un cahier des charges démo](./cahier-des-charges-exemples/cdc.md), avec instructions
+
 ## Outils
 
 - Dessiner, exporter des diagrammes UML facilement: [Umlet](https://www.umlet.com/)
