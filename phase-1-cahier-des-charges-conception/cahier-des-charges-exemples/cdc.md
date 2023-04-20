@@ -47,7 +47,7 @@ Exemples:
 
 ## Exigences *non fonctionnelles*
 
-qualité, fiabilité, sécurité 
+Objectifs secondaires de votre système (ou qualités du système) : qualité, fiabilité, sécurité, etc. N'apporte pas de valeur *directement* mais indirectement (par exemple un système fiable et sécurisé va gagner en réputation et des utilisateurs)
 
 >Exemple "Le système doit..."
 
