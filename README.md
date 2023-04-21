@@ -21,13 +21,13 @@ UF *Spé INGENIERIE LOGICIELLE et Base de données*
   - effectuer des choix technologiques et respecter leurs conventions
   - maîtriser les Design Patterns
   - maîtriser l’utilisation d’un ORM
-- ARCHITECTURE MICRO-SERVICES (REST)
+- Architecture Micro-services (REST)
   - maîtriser la séparation des responsabilités
-  - concevoir une API REST
-- DEVELOPPEMENT ASYNCHRONE (Websocket, JS asynchrone)
+  - concevoir une web API RESTful
+- Développement aynschrone (Websocket, JS asynchrone)
   -  détecter les situations ayant besoin de l’asynchrone
   -  construire autour d’informations asynchrones
-- BAS NIVEAU / MACHINE LEARNING
+- Bas niveau / Machine learning
   - réaliser un défi technique
 
 ## Programme
@@ -44,9 +44,9 @@ UF *Spé INGENIERIE LOGICIELLE et Base de données*
 
 ## Modules d'enseignement envisagés pour couvrir les compétences
 
-- *Architecture logicielle*: Rappels sur le concept d'interface et les principes SOLID, Quelques design patterns (POO Avancé), Design Pattern MVC pour le web, définition et usage d'un ORM, Architecture en couches / Architecture Hexagonale: theorie et pratique => Évaluation: mini projet à rendre sur un dépôt (à faire seul)
-- *Architecture Mirco-Services*: concevoir et développer une API *RESTful* basé sur les standards du web (avec nodejs) => Évaluation : QCM
-- *Développement aynschrone*: Introduction aux protocoles SSE/Websocket => mini projet à rendre sur un dépôt (à faire seul)
+- *Architecture logicielle*: Rappels sur le concept d'interface et les principes SOLID, quelques design patterns (POO Avancé), design pattern MVC pour le web, définition et usage d'un ORM, architecture en couches / architecture Hexagonale: théorie et pratique => Évaluation: mini projet à rendre sur un dépôt (à faire seul)
+- *Architecture Micro-services*: concevoir et développer une API *RESTful* basé sur les standards du web (avec nodejs) => Évaluation : QCM
+- *Développement aynschrone*: Introduction aux protocoles SSE/Websocket/Mercure => mini projet à rendre sur un dépôt (à faire seul)
 
 ## Modules supplémentaires, suggérés
 
