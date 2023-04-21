@@ -45,6 +45,6 @@ Démarrer le projet, définir le cahier des charges et le périmètre du projet,
 
 - Mise à niveau Git et Git branching models
 - Éléments de conception (diagrammes d'activités, états/transition, classes)
-- continuer la conception, démarrer l'implémentation
+- Continuer la conception et démarrer l'implémentation du cas d'utilisation principal. Itération et allers/retours conception/implémentation
 
 ## Ressources
