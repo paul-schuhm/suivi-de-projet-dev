@@ -6,6 +6,7 @@
 
 >Composition du projet: les différents composants (rester général). Une application qui gere ceci, un site web qui expose cela, une base de données, etc.
 
+
 ## Objectifs
 
 >définition des objectifs du produit. Pour chaque objectif: énoncé, bénéfices attendus, indicateurs de mesure.
@@ -34,13 +35,17 @@ Exemples:
 
 ## Description des cas d'utilisation
 
+>Fournir une description textuelle du cas d'utilisation principal de votre projet. On fournira une description textuelle du cas d'utilisation (tous les scenarios possibles: scenario nominal+scenarios alternatifs) et une description textuelle du scenario nominal (un seul scenario, données fixées à l'avance, équivalent à un test)
+
 ## Exigences fonctionnelles
 
 >Reprendre les cas d'utilisation et les spécifier sous format texte en une liste priorisée
 
-- ce que votre système doit faire, comment il se comporte. 
-- Elles sont orgniasées sous forme de liste
-- chaque exigence est priorisée
+- Ce que votre système doit faire, comment il se comporte. 
+- Elles sont organisées sous forme de liste
+- Chaque exigence est priorisée
+- Les exigences peuvent être regroupées sous forme d'itérations
+- Laisser de côté les spécifications inutiles, optionnelles, etc. 
 
 > Spécification: translation au format texte d'une exigence (besoin exprimé et débattu, clarifié par toutes les parties). Doit être claire et brève. Quelques templates de specifications:
 > - Le système doit ...
@@ -49,7 +54,7 @@ Exemples:
 
 ## Exigences *non fonctionnelles*
 
-Objectifs *secondaires* de votre système (ou qualités du système) : qualité, fiabilité, sécurité, etc. N'apporte pas de valeur *directement* mais indirectement (par exemple un système fiable et sécurisé va gagner en réputation et des utilisateurs)
+Objectifs *secondaires* de votre système (ou qualités du système) : architecture, dépendances, qualité, fiabilité, sécurité, etc. N'apporte pas de valeur *directement* mais indirectement (par exemple un système fiable et sécurisé va gagner en réputation et des utilisateurs)
 
 >Exemple "Le système doit..."
 
