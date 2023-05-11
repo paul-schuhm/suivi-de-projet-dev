@@ -1,8 +1,8 @@
-# Vers le "cahier des charges"
+# Rédaction du cahier des charges
 
 Documentation pour élaborer le cahier des charges du projet. Un document à convevoir au début du projet (phase de recueil des besoins, spécification), avant la conception. On le modifiera de manière itérative. Le but est d'abattre le plus de travail en amont, avant de se lancer dans la conception et surtout l'implémentation.
 
-- [Vers le "cahier des charges"](#vers-le-cahier-des-charges)
+- [Rédaction du cahier des charges](#rédaction-du-cahier-des-charges)
   - [Élaboration: Modèle de cycle de vie logiciel](#élaboration-modèle-de-cycle-de-vie-logiciel)
   - [Concepts](#concepts)
   - [Risques](#risques)
