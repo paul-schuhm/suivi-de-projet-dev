@@ -201,6 +201,9 @@ Voir le manuel manuel.pdf hébergé à cette adresse.
 
 Ce diagramme aide à visualiser les différents états que peut posséder une facture au cours de son cycle de vie.
 
+
+<img src="./diagramme-etat-facture.png" width="600px"/>
+
 ### Stack technique 
 
 La solution sera basée sur les technologies du web (PHP, HTML, CSS/JS). Les documents et les informations clients sont conservés dans des fichiers XML, avec un schéma défini pour chaque document (facture, fiche client). Les feuilles de style sont au format XLST.
