@@ -54,7 +54,7 @@ Le processus de gestion de facture commence lorsque l'utilisateur accède au sys
 #### Enchaînement nominal
 
 1. L'utilisateur demande la création d'une nouvelle facture. 
-2. Le système lui propose un formulaire où l'utilisateur doit renseigner les coordonées du client. Le système propose la liste des clients déjà enregistrés
+2. Le système lui propose un formulaire où l'utilisateur doit renseigner les coordonnées du client. Le système propose la liste des clients déjà enregistrés
 3. L'utilisateur choisit un client
 4. L'utilisateur choisit un modèle de facturation
 5. L'utilisateur remplit les champs du modèle de facturation, ligne par ligne
@@ -72,9 +72,9 @@ Le processus de gestion de facture commence lorsque l'utilisateur accède au sys
 
 3A. Le client n'existe pas dans la base de données du système.
 4. L'utilisateur choisit d'ajouter un client.
-5. Le système propose un formulaire pour enregistrer un nouveau client. L'utilisateur renseigne les champs obligatoires suivantes : nom, prénom ou raison sociale, adresse, e-mail, numéro de téléphone, SIRET, label
+5. Le système propose un formulaire pour enregistrer un nouveau client. L'utilisateur renseigne les champs obligatoires suivantes : nom, prénom ou raison sociale, adresse, e-mail, numéro de téléphone, SIRET, label.
 6. L'utilisateur enregistre le nouveau client.
-7. Le système ramène l'utilisateur sur l'édition de la facture avec le client nouvellement crée sélectionné.
+7. Le système ramène l'utilisateur sur l'édition de la facture avec le client nouvellement créé sélectionné.
 
 4. Le modèle désiré n'existe pas :
    1. Soit l'utilisateur annule. Sa facture est conservée en l'état au statut brouillon. La séquence reprend en 14.
@@ -90,7 +90,7 @@ Le processus de gestion de facture commence lorsque l'utilisateur accède au sys
 
 ### Post-conditions
 
-- Le système a crée deux fichiers: un fichier au format XML contenant les sources de la facture, un fichier au format PDF correspondant à l'impression de la facture, distribuable par l'entreprise.
+- Le système a créé deux fichiers: un fichier au format XML contenant les sources de la facture, un fichier au format PDF correspondant à l'impression de la facture, distribuable par l'entreprise.
 - Le système à log la création de la facture (date, identifiant du client, numéro de la facture publiée) dans un fichier de journalisation
 
 
@@ -113,17 +113,17 @@ Version : 1.0
 ### Déroulement
 
 1. L'utilisateur demande la création d'une nouvelle facture. 
-2. Le système lui propose un formulaire où l'utilisateur doit renseigner les coordonées du client. Le système propose la liste des clients déjà enregistrés
-3. L'utilisateur choisit le client labelisé "Ecole informatique"
+2. Le système lui propose un formulaire où l'utilisateur doit renseigner les coordonnées du client. Le système propose la liste des clients déjà enregistrés.
+3. L'utilisateur choisit le client labélisé "École informatique"
 4. L'utilisateur choisit le modèle de facturation "Jury"
-5. L'utilisateur remplit les champs du modèle "Jury", une ligne par jury. Il renseigne la désignation, la date et le montant de chaque interventation (150 et 150)
+5. L'utilisateur remplit les champs du modèle "Jury", une ligne par jury. Il renseigne la désignation, la date et le montant de chaque intervention (150 et 150)
 6. Le système calcule le montant total HT de 300 EUROS et TTC de 300 EUROS (la TVA n'est pas applicable)
 7. L'utilisateur prévisualise la facture à imprimer
 8. L'utilisateur publie la facture
 9. Le système récupère le numéro 12, numéro de la dernière facture publiée. Il incrémente le numéro de facture à 13 et ajoute le numéro 2023-0012 à la facture dans le champ "Numéro de facture".
 10. Le système ajoute un numéro de version "1.0" 
 11. Le système ajoute la date d'émission 11/05/23
-12. Le système charge la feuille de style principale style.xslt et imprime la facture au format PDF dans le fichier 2023-0012.pdf. La facture passe au statut imprimée et impayée.
+12. Le système charge la feuille de style principale style.xslt et imprime la facture au format PDF dans le fichier 2023-0012.pdf. La facture passe au statut imprimé et impayé.
 13. Le système indique à l'utilisateur que la facture 2023-0012.pdf a été imprimée.
 14. Le système conduit l'utilisateur au listing des factures imprimées.
 
@@ -139,9 +139,9 @@ Voici la **liste priorisée** des exigences fonctionnelles du système :
 - Dans le cas où le client n'est pas encore connu du système, il doit permettre de l'ajouter.
 - Le système doit permettre à l'utilisateur de gérer ses coordonnées.
 - Le système doit permettre de prévisualiser la facture à imprimer dans le navigateur web.
-- Le système doit suivre l'édition des factures. Une facture peut etre dans les deux états suivants : brouillon ou publiée. Une facture publiée met à jour le dernier numéro de facture.
+- Le système doit suivre l'édition des factures. Une facture peut être dans les deux états suivants : brouillon ou publiée. Une facture publiée met à jour le dernier numéro de facture.
 - Le système doit suivre le paiement des factures. Une facture peut être dans l'un des deux états suivants : payée ou impayée. Une facture imprimée est dans l'état impayée par défaut. Dans le cas où une facture émise est payée, le système doit permettre d'indiquer que la facture est payée.
-- Dans le cas où une facture est dans le statut publiée, le système interdit de la passer au statut brouillon. Le système ne peut attribuer le statut payée ou impayée qu'à une facture dans l'état publiée.
+- Dans le cas où une facture est dans le statut publiée, le système interdit de la passer au statut brouillon. Le système ne peut attribuer le statut payé ou impayé qu'à une facture dans l'état publiée.
 - Le système doit permettre de lister facilement les factures par date d'émission et par statut. Dans le cas où une facture est impayée depuis une certaine période, définie par l'utilisateur en semaines (période entre dates actuelle et date d'émission supérieure à période de relance), le système doit l'indiquer clairement à l'utilisateur.
 - Le système doit permettre d'éditer facilement la mise en page (fonts, marges, couleurs, logo, etc.) des factures à imprimer via une feuille de style.
 - Le système doit permettre d'ajouter, d'éditer ou de supprimer un client dans une base de données intégrée au système. Dans le cas où l'utilisateur crée une nouvelle facture, le système doit fournir la liste des clients déjà enregistrés. Les coordonnées obligatoires d'un client sont les suivantes : nom ou raison sociale, adresse, SIRET, e-mail, téléphone.
@@ -152,28 +152,54 @@ Voici la **liste priorisée** des exigences fonctionnelles du système :
 - Le système doit être simple à installer.
 - Le système doit être simple à utiliser.
 - Le système doit être simple à sauvegarder (dupliquer, backup) et à déplacer d'une machine à l'autre.
-- Les données enregistrées et manipulées par le système (facturation, CA, coordonées fournisseur, coordonnées client) doivent être dans un format libre et standardisé afin de les rendre interoprables.
+- Les données enregistrées et manipulées par le système (facturation, CA, coordonnées fournisseurs, coordonnées client) doivent être dans un format libre et standardisé afin de les rendre interopérables.
 
 ## Contraintes 
 
-- Le système doit être accessible sans connexion Internet;
-- Toutes les factures éditées et les informations des clients doivent être accessibles dans un format standard et facilement éditables avec un simple éditeur de texte. Les données seront conservées au format XML (interopérabilité) et disposeront d'un schéma afin de les valider automatiquement;
-- Les factures doivent être imprimées au format PDF;
-- Le système doit être accessible via n'importe quel navigateur web.
+- Le système doit être **accessible sans connexion Internet**;
+- **Interopérabilité des données** : toutes les factures éditées et les informations des clients doivent être accessibles dans un format standard et facilement éditables avec un simple éditeur de texte. Les données seront conservées au format XML et disposeront d'un schéma afin de les valider automatiquement;
+- Les factures doivent être imprimées au **format PDF**;
+- Le système doit être **accessible via n'importe quel navigateur web**.
+- Le système doit fonctionner sur tous les sytèmes UNIX-like (GNU/Linux, macOS) et sur Windows avec WSL (Windows Subsystem for Linux)
 
 ## Prestations attendues
 
 ## Annexes
 
+### Planning
+
+À fournir.
+
+### Installation
+
+#### Développeur·se
+
+Voir le README du dépôt hébergeant le code source.
+
+#### Utilisateur·se
+
+Voir le manuel manuel.pdf hébergé à cette adresse.
+
 ### Dictionnaire des données
+
+> A compléter.
 
 |  Code 	| Désignation  	| Type   	|  Taille 	|  Remarque 	|
 |---	|---	|---	|---	|---	|
-|  statut 	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
+|  `statut_edition` 	|   État d'une facture dans le processus éditorial. 2 statuts possibles: brouillon, publiée	|  A 	|  10 	|   Lorsqu'une facture est publiée, elle ne peut plus passer dans le statut brouillon.	|
+|   `draft`	|   Statut éditorial d'une facture en attente d'impression	|   A	|   10	|   	|
+|   `printed`	|   Statut éditorial d'une facture imprimée	|   A	|   10	|   	|
+|   `statut_payment`	| Statut de paiement d'une facture. 2 statuts possibles: impayée, payée  	|   A	|  10 	|  Une facture payée ne peut pas passer en état impayée. Seule une facture publiée peut avoir un statut de paiement. Une facture dans l'état brouillon a un statut de paiement indéfini. 	|
+|  `payment_extension_in_weeks` 	|  Le délai d'attente accepté par l'entreprise exprimé en semaines avant d'effectuer une relance auprès du client 	|   N	|   	|   	|
+|   `id_client`	| L'identifiant unique d'un client  	|  N 	|   	|   	|
+|   `id_invoice`	| L'identifiant unique d'une facture	|  N 	|   	|   	|
+|   `number_invoice`	| Le numéro unique d'une facture	|  AN 	|   14	|  Contient l'identifiant unique d'une facture. Au format spécifié par l'utilisateur. Par défaut `YYYY-XXXX` où `YYYY` est l'année courante, `XXXX` l'identifiant de la facture. 	|
+
+### Documentation technique
+
+#### Diagramme d'états/transitions d'une facture
+
+Ce diagramme aide à visualiser les différents états que peut posséder une facture au cours de son cycle de vie.
 
 ### Stack technique 
 
