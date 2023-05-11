@@ -58,8 +58,8 @@ Un *bon* cahier des charges :
 
 ## Démos
 
-- [Un template détaillé du cahier des charges](./cahier-des-charges-exemples/cdc.md), avec instructions/suggestions
-- [Un cahier des charges exemple](./cahier-des-charges-exemples/cdc-example.md), sur un système de comptabilité minimal sur mesure
+- [Un template détaillé du cahier des charges](./cahier-des-charges-exemples/cdc-template.md), avec instructions/suggestions
+- [Un exemple de cahier des charges](./cahier-des-charges-exemples/cdc-example.md), sur un système de comptabilité minimal sur mesure
 
 ## Références
 
