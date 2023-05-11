@@ -33,8 +33,6 @@ Un seul acteur
 
 ## Description des cas d'utilisation
 
->Fournir une description textuelle du cas d'utilisation principal de votre projet. On fournira une description textuelle du cas d'utilisation (tous les scénarios possibles: scenario nominal+scenarios alternatives) et une description textuelle du scénario nominal (un seul scénario, données fixées à l'avance, équivaut à un test)
-
 ### Description textuelle du cas d'utilisation principal
 
 
@@ -64,6 +62,7 @@ Voici la **liste priorisée** des exigences fonctionnelles du système :
 - Le système doit être simple à installer.
 - Le système doit être simple à utiliser.
 - Le système doit être simple à sauvegarder (dupliquer, backup) et à déplacer d'une machine à l'autre.
+- Les données enregistrées et manipulées par le système (facturation, CA, coordonées fournisseur, coordonnées client) doivent être dans un format libre et standardisé afin de les rendre interoprables.
 
 ## Contraintes 
 
