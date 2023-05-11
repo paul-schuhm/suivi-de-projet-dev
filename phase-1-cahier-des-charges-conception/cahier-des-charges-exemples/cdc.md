@@ -1,4 +1,4 @@
-# Cahier des charges démo
+# Cahier des charges template
 
 ## Contexte 
 
