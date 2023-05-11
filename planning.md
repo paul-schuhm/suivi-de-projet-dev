@@ -3,12 +3,28 @@
 Le planning prévisionnel du module. Définit les objectifs de chaque séance et des livrables/travail attendu au début de la séance suivante.
 
 - [Planning : du 20/04/23 au 11/07/23](#planning--du-200423-au-110723)
-  - [20/04/23 : Premier jour](#200423--premier-jour)
+  - [11/05/23 :](#110523-)
     - [Ordre du jour](#ordre-du-jour)
-    - [Actions à mener (pour le 11/05/23)](#actions-à-mener-pour-le-110523)
+    - [A faire pour le 12/05/23](#a-faire-pour-le-120523)
+  - [20/04/23 : Premier jour](#200423--premier-jour)
+    - [Ordre du jour](#ordre-du-jour-1)
+    - [A faire (pour le 11/05/23)](#a-faire-pour-le-110523)
     - [Prochaine séance](#prochaine-séance)
   - [Ressources](#ressources)
 
+## 11/05/23 :
+
+### Ordre du jour
+
+- Revoir des outils de conception (diagrammes d'activités, états/transition)
+- Finir le cahier des charges
+- Démarrer l'implémentation du cas d'utilisation principal. Itération et allers/retours conception/implémentation
+
+### A faire pour le 12/05/23
+
+- Livrer une première version du cahier des charges. Il sera validé ou non
+- Proposer un premier planning: définir le contenu d'une première itération (ensemble d'exigences fonctionnelles) à réaliser (implémenter) pour la prochaine fois, le **19/06/23**. 
+- Chaque groupe présentera (5min) une démo de l'état de leur projet en début de séance
 
 ## 20/04/23 : Premier jour
 
@@ -28,7 +44,7 @@ Démarrer le projet, définir le cahier des charges et le périmètre du projet,
   - Description textuelle des CU
   - Dictionnaire des données
 
-### Actions à mener (pour le 11/05/23)
+### A faire (pour le 11/05/23)
 
 - URL du dépot (ou dépôt point d'entrée si plusieurs dépôts) à envoyer à l'adresse paul.schuhmacher@ynov.com
 - Le dépôt doit contenir :

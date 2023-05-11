@@ -17,7 +17,13 @@ Une description du programme et du cycle de développement.
 
 ## Deuxième phase : conception
 
+- Elaborer des documents techniques pour documenter le fonctionnement du système (diagrammes UML, maquettes, etc.)
+- Proposer une première itération (itération 1) (ensemble d'exigences fonctionnelles à livrer pour une date donnée)
+
 ## Troisième phase : réalisation (implémentation)
+
+- Commencer l'itération 1, itérer sur la conception/cahier des charges
+- Documenter les choix (suivi de l'évolution du Cdc), CR
 
 ## Ressources
 
