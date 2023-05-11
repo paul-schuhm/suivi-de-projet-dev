@@ -7,7 +7,7 @@ Documentation pour élaborer le cahier des charges du projet. Un document à con
   - [Concepts](#concepts)
   - [Risques](#risques)
   - [*Template* de cahier des charges](#template-de-cahier-des-charges)
-  - [Démo](#démo)
+  - [Démos](#démos)
   - [Références](#références)
 
 
@@ -56,9 +56,10 @@ Un *bon* cahier des charges :
 
 > Ce document servira à **valider** votre projet.
 
-## Démo
+## Démos
 
-[Un cahier des charges démo](./cahier-des-charges-exemples/cdc.md), avec instructions/exemples/suggestions
+- [Un template détaillé du cahier des charges](./cahier-des-charges-exemples/cdc.md), avec instructions/suggestions
+- [Un cahier des charges exemple](./cahier-des-charges-exemples/cdc-example.md), sur un système de comptabilité minimal sur mesure
 
 ## Références
 

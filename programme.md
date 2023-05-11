@@ -13,7 +13,7 @@ Une description du programme et du cycle de développement.
 
 ## Première phase: cahier des charges
 
-[Voir le travail sur le cahier des charges](./phase-1-cahier-des-charges-conception/index.md)
+[Voir la rédaction du cahier des charges](./phase-1-cahier-des-charges-conception/index.md)
 
 ## Deuxième phase : conception
 
