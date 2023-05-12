@@ -231,6 +231,8 @@ Voir le manuel manuel.pdf hébergé à cette adresse.
 |   `draft`	|   Statut éditorial d'une facture en attente d'impression	|   A	|   10	|   	|
 |   `printed`	|   Statut éditorial d'une facture imprimée	|   A	|   10	|   	|
 |   `statut_payment`	| Statut de paiement d'une facture. 2 statuts possibles: impayée, payée  	|   A	|  10 	|  Une facture payée ne peut pas passer en état impayée. Seule une facture publiée peut avoir un statut de paiement. Une facture dans l'état brouillon a un statut de paiement indéfini. 	|
+|   `paid`	|   Statut d'une facture payée	|   A	|   10	|   	|
+|   `unpaid`	|   Statut d'une facture impayée	|   A	|   10	|  Statut d'une facture par défaut à sa publication 	|
 |  `payment_extension_in_weeks` 	|  Le délai d'attente accepté par l'entreprise exprimé en semaines avant d'effectuer une relance auprès du client 	|   N	|   	|   	|
 |   `id_client`	| L'identifiant unique d'un client  	|  N 	|   	|   	|
 |   `id_invoice`	| L'identifiant unique d'une facture	|  N 	|   	|   	|
