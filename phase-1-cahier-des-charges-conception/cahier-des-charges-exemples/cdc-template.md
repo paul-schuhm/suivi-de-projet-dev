@@ -73,6 +73,7 @@ Objectifs *secondaires* de votre système (ou qualités du système) : architect
 ## Annexes
 
 - Liste des abréviations et des conventions
+- Glossaire : définition des documents, objets métiers 
 - **Dictionnaire des données** (pour conception de la base de données)
 - Lien vers votre dépôt
 - Compte rendus de vos réunions (CR). Un CR contient au moins
