@@ -56,7 +56,7 @@ UF *Spé INGENIERIE LOGICIELLE et Base de données*
 
 - *Exigences et conception*: 
   - [Élaboration d'un document cahier des charges](./phase-1-cahier-des-charges-conception/index.md)
-  - Outils de conception UML : diagramme des cas d'utilisation, description textuel des cas d'utilisation/scénarios,[ diagramme d'états transition](./modules/conception-diagrammes-etat-transitions/), diagramme d'activités
+  - [Outils de conception UML](./modules/conception/README.md) : rappels, du bon usage de ces outils, diagramme des cas d'utilisation, description textuel des cas d'utilisation/scénarios,diagramme d'états transition, diagramme d'activités
 - *Gitflow*: remise à niveau et consolidation Git et Gitflow (git branching models)
 - *Architecture logicielle*: Rappels sur le concept d'interface et les principes SOLID, quelques design patterns (POO Avancé), design pattern MVC pour le web, définition et usage d'un ORM, architecture en couches / architecture Hexagonale: théorie et pratique => Évaluation: mini projet à rendre sur un dépôt (à faire seul)
 - *Architecture Micro-services*: concevoir et développer une API *RESTful* basé sur les standards du web (avec nodejs) => Évaluation : QCM
