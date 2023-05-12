@@ -7,6 +7,7 @@ Le planning prévisionnel du module. Définit les objectifs de chaque séance et
   - [11/05/23](#110523)
     - [Ordre du jour](#ordre-du-jour)
     - [A faire pour le 12/05/23](#a-faire-pour-le-120523)
+    - [A faire pour le 19/06/23 (prochaine séance)](#a-faire-pour-le-190623-prochaine-séance)
   - [20/04/23](#200423)
     - [Ordre du jour](#ordre-du-jour-1)
     - [A faire (pour le 11/05/23)](#a-faire-pour-le-110523)
@@ -34,6 +35,10 @@ Le planning prévisionnel du module. Définit les objectifs de chaque séance et
 - Livrer une première version du cahier des charges. Il sera validé ou non
 - Proposer un premier planning: définir le contenu d'une première itération (ensemble d'exigences fonctionnelles) à réaliser (implémenter) pour la prochaine fois, le **19/06/23**. 
 - Chaque groupe présentera (5min) une démo de l'état de leur projet en début de séance
+
+### A faire pour le 19/06/23 (prochaine séance)
+
+- implémenter le contenu de vos itérations pour aboutir à une première version de votre application
 
 ## 20/04/23
 
