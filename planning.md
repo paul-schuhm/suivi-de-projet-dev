@@ -3,16 +3,25 @@
 Le planning prévisionnel du module. Définit les objectifs de chaque séance et des livrables/travail attendu au début de la séance suivante.
 
 - [Planning : du 20/04/23 au 11/07/23](#planning--du-200423-au-110723)
-  - [11/05/23 :](#110523-)
+  - [Dates clefs](#dates-clefs)
+  - [11/05/23](#110523)
     - [Ordre du jour](#ordre-du-jour)
     - [A faire pour le 12/05/23](#a-faire-pour-le-120523)
-  - [20/04/23 : Premier jour](#200423--premier-jour)
+  - [20/04/23](#200423)
     - [Ordre du jour](#ordre-du-jour-1)
     - [A faire (pour le 11/05/23)](#a-faire-pour-le-110523)
     - [Prochaine séance](#prochaine-séance)
   - [Ressources](#ressources)
 
-## 11/05/23 :
+## Dates clefs
+
+- Soutenance devant jury : 12/07/23
+- Oraux blancs (préparation à la soutenance) : 11/07/23
+- Livraison : 10/07/23
+- Démarrage du projet : 20/04/23
+
+
+## 11/05/23
 
 ### Ordre du jour
 
@@ -26,7 +35,7 @@ Le planning prévisionnel du module. Définit les objectifs de chaque séance et
 - Proposer un premier planning: définir le contenu d'une première itération (ensemble d'exigences fonctionnelles) à réaliser (implémenter) pour la prochaine fois, le **19/06/23**. 
 - Chaque groupe présentera (5min) une démo de l'état de leur projet en début de séance
 
-## 20/04/23 : Premier jour
+## 20/04/23
 
 ### Ordre du jour
 
