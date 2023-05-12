@@ -3,12 +3,12 @@
 
 - [Suivi-de-projet-dev](#suivi-de-projet-dev)
   - [Compétences à valider](#compétences-à-valider)
+  - [Pré-requis *minimum* du projet du point de vue technique](#pré-requis-minimum-du-projet-du-point-de-vue-technique)
   - [Programme](#programme)
   - [Planning](#planning)
   - [Équipes](#équipes)
   - [Modules d'enseignement envisagés pour couvrir les compétences](#modules-denseignement-envisagés-pour-couvrir-les-compétences)
   - [Modules supplémentaires, suggérés](#modules-supplémentaires-suggérés)
-  - [Pré-requis *minimum*](#pré-requis-minimum)
   - [Suggestions](#suggestions)
     - [Applis web](#applis-web)
     - [IA de jeu](#ia-de-jeu)
@@ -30,6 +30,16 @@ UF *Spé INGENIERIE LOGICIELLE et Base de données*
 - Bas niveau / Machine learning
   - réaliser un défi technique
 
+
+## Pré-requis *minimum* du projet du point de vue technique
+
+- Architecture en *services* (IHM, API)
+- Utiliser au moins 3 *Design Patterns* de manière *utile*
+- Une BDD (relationnel ou pas que)
+- Utiliser un ORM ou un ODM (Object Document Mapping), un composant d'interface entre la base de données et le code applicatif
+- Utiliser au moins un langage orienté objet (côté front-end ou back-end)
+- *Défi* technique : sortir des sentiers batus des concepts abordés en cours (techno, process, sécurité, etc.)
+
 ## Programme
 
 [Voir le programme](./programme.md) (grandes étapes du module pour faire avancer le projet)
@@ -44,14 +54,16 @@ UF *Spé INGENIERIE LOGICIELLE et Base de données*
 
 ## Modules d'enseignement envisagés pour couvrir les compétences
 
+- *Exigences et conception*: 
+  - [Élaboration d'un document cahier des charges](./phase-1-cahier-des-charges-conception/index.md)
+  - Outils de conception UML : diagramme des cas d'utilisation, description textuel des cas d'utilisation/scénarios,[ diagramme d'états transition](./modules/conception-diagrammes-etat-transitions/), diagramme d'activités
+- *Gitflow*: remise à niveau et consolidation Git et Gitflow (git branching models)
 - *Architecture logicielle*: Rappels sur le concept d'interface et les principes SOLID, quelques design patterns (POO Avancé), design pattern MVC pour le web, définition et usage d'un ORM, architecture en couches / architecture Hexagonale: théorie et pratique => Évaluation: mini projet à rendre sur un dépôt (à faire seul)
 - *Architecture Micro-services*: concevoir et développer une API *RESTful* basé sur les standards du web (avec nodejs) => Évaluation : QCM
 - *Développement aynschrone*: Introduction aux protocoles SSE/Websocket/Mercure => mini projet à rendre sur un dépôt (à faire seul)
 
 ## Modules supplémentaires, suggérés
 
-- *Exigences et conception*: Framework de conception avec UML, élaboration d'un document cahier des charges
-- *Gitflow*: remise à niveau et consolidation Git et Gitflow (git branching models)
 - *Standard SQL et conception d'une base de données relationnelle* (du MCD au schéma de la base)
 - *Différents aspects de sécurité*: les differents types de sécurité, identification/authentification/autorisation, démo attaques CSRF/XSS, démo JWT et fonctionnement, Same Origin Policy et Cors
 - *Algorithmes de pathfinding*: Breadth First Search, Dijkstra’s Algorithm, A*. Présentation et implémentations
@@ -59,14 +71,6 @@ UF *Spé INGENIERIE LOGICIELLE et Base de données*
 - *Veille personnelle*
 - *Fondamentaux de l'écriture technique* (tutoriel, documentation, pitch, story)
 
-## Pré-requis *minimum*
-
-- Architecture en *services* (IHM, API)
-- Utiliser au moins 3 *Design Patterns* de manière *utile*
-- Une BDD (relationnel ou pas que)
-- Utiliser un ORM
-- Utiliser un langage orienté objet
-- *Défi* technique
 
 ## Suggestions
 
