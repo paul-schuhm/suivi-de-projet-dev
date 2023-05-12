@@ -236,7 +236,7 @@ Voir le manuel manuel.pdf hébergé à cette adresse.
 |  `payment_extension_in_weeks` 	|  Le délai d'attente accepté par l'entreprise exprimé en semaines avant d'effectuer une relance auprès du client 	|   N	|   	|   	|
 |   `id_client`	| L'identifiant unique d'un client  	|  N 	|   	|   	|
 |   `id_invoice`	| L'identifiant unique d'une facture	|  N 	|   	|   	|
-|   `number_invoice`	| Le numéro unique d'une facture	|  AN 	|   14	|  Contient l'identifiant unique d'une facture. Au format spécifié par l'utilisateur. Par défaut `YYYY-XXXX` où `YYYY` est l'année courante, `XXXX` l'identifiant de la facture. 	|
+|   `number_invoice`	| Le numéro unique d'une facture	|  AN 	|   14	|  Contient l'identifiant unique d'une facture. Au format spécifié par l'utilisateur. Par défaut `YYYY-XXXX` où `YYYY` est l'année courante, `XXXX` l'identifiant de la facture. Par exemple, `2023-0053` 	|
 
 ### Documentation technique
 
