@@ -2,6 +2,38 @@
 
 > Cahier des charges d'exemple d'un système de comptabilité
 
+- [Cahier des charges exemple](#cahier-des-charges-exemple)
+  - [Contexte](#contexte)
+  - [Objectifs](#objectifs)
+  - [Acteurs](#acteurs)
+  - [Périmètre et cas d'utilisation](#périmètre-et-cas-dutilisation)
+  - [Règles métier](#règles-métier)
+  - [Description textuel du cas d'utilisation principal :  Éditer une nouvelle facture](#description-textuel-du-cas-dutilisation-principal---éditer-une-nouvelle-facture)
+    - [Identification](#identification)
+    - [Flux d'évènements](#flux-dévènements)
+      - [Enchaînement nominal](#enchaînement-nominal)
+      - [Enchaînements alternatifs](#enchaînements-alternatifs)
+      - [Enchaînements d'exceptions](#enchaînements-dexceptions)
+    - [Post-conditions](#post-conditions)
+  - [Description textuelle du scénario "L'entreprise édite une facture pour le client existant "École d'informatique" suite à deux prestations de jury le 03/02/23 et le 04/02/23 pour un montant de 300 EUROS"](#description-textuelle-du-scénario-lentreprise-édite-une-facture-pour-le-client-existant-école-dinformatique-suite-à-deux-prestations-de-jury-le-030223-et-le-040223-pour-un-montant-de-300-euros)
+    - [Identification](#identification-1)
+    - [Déroulement](#déroulement)
+  - [Exigences fonctionnelles](#exigences-fonctionnelles)
+  - [Exigences *non fonctionnelles*](#exigences-non-fonctionnelles)
+  - [Contraintes](#contraintes)
+  - [Prestations attendues](#prestations-attendues)
+  - [Annexes](#annexes)
+    - [Planning](#planning)
+      - [Itération 1](#itération-1)
+    - [Installation](#installation)
+      - [Développeur·se](#développeurse)
+      - [Utilisateur·se](#utilisateurse)
+    - [Dictionnaire des données](#dictionnaire-des-données)
+    - [Documentation technique](#documentation-technique)
+      - [Diagramme d'états/transitions d'une facture](#diagramme-détatstransitions-dune-facture)
+    - [Stack technique](#stack-technique)
+
+
 ## Contexte 
 
 De nombreuses solutions logicielles existent pour tenir la comptabilité d'une entreprise, notamment en ligne. Néanmoins, la plupart offrent de trop nombreux services et ne permettent pas de customiser facilement les templates des factures à éditer. D'autres sont payantes. Le client souhaite disposer d'un outil sur mesure, minimal, qui lui permet de gérer facilement ses factures sur sa machine, sans avoir besoin d'une connexion Internet. 
