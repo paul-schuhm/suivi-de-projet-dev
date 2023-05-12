@@ -1,8 +1,10 @@
-# Suivi-de-projet-dev
+# Suivi de projet - spé DEV
 
 
-- [Suivi-de-projet-dev](#suivi-de-projet-dev)
+- [Suivi de projet - spé DEV](#suivi-de-projet---spé-dev)
   - [Compétences à valider](#compétences-à-valider)
+  - [Soutenance](#soutenance)
+  - [Livrables attendus](#livrables-attendus)
   - [Pré-requis *minimum* du projet du point de vue technique](#pré-requis-minimum-du-projet-du-point-de-vue-technique)
   - [Programme](#programme)
   - [Planning](#planning)
@@ -30,6 +32,16 @@ UF *Spé INGENIERIE LOGICIELLE et Base de données*
 - Bas niveau / Machine learning
   - réaliser un défi technique
 
+## Soutenance
+
+Le projet sera soutenu devant un jury.
+
+## Livrables attendus
+
+- Dépôt GIT de votre logiciel à jour (code source, historique des commits) documenté avec un README;
+- Cahier des charges;
+- Exécutable de vos logiciels;
+- Slides de votre présentation.
 
 ## Pré-requis *minimum* du projet du point de vue technique
 
@@ -70,7 +82,6 @@ UF *Spé INGENIERIE LOGICIELLE et Base de données*
 - *Introduction à la génération procédurale* (génération de heightmaps, de dongeons, etc.)
 - *Veille personnelle*
 - *Fondamentaux de l'écriture technique* (tutoriel, documentation, pitch, story)
-
 
 ## Suggestions
 
