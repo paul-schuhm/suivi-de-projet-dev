@@ -133,7 +133,8 @@ Voici la **liste priorisée** des exigences fonctionnelles du système :
 
 - Le système doit permettre d'éditer une nouvelle facture en choisissant un modèle de facture préenregistrée, un client et les montants des prestations. 
 - Le système doit gérer automatiquement la numérotation des factures.
-- Le système doit proposer un modèle de facturation par défaut ainsi que la possibilité de charger de nouveaux modèles. Un modèle est défini par un ensemble de colonnes (libellé) et de lignes de facturation (une ou plusieurs).
+- Le système doit proposer un modèle de facturation par défaut 
+- Le système doit permettre de définir et charger de nouveaux modèles. Un modèle est défini par un ensemble de colonnes (libellé) et de lignes de facturation (une ou plusieurs).
 - Le système doit toujours imprimer des factures indiquant la date d'émission, un numéro de facture valide, les coordonnées fournisseurs, les coordonnées du client, l'application ou non de la TVA, le montant total HT et TTC. Le système doit calculer le montant total HT et TTC.
 - Le système doit permettre d'imprimer ou de réimprimer une facture au format PDF.
 - Dans le cas où le client n'est pas encore connu du système, il doit permettre de l'ajouter.
@@ -168,7 +169,15 @@ Voici la **liste priorisée** des exigences fonctionnelles du système :
 
 ### Planning
 
-À fournir.
+#### Itération 1
+
+Date de livraison : 19/06/23
+
+Contenu : 
+
+- Le système doit permettre d'éditer une nouvelle facture en choisissant un modèle de facture préenregistrée, un client et les montants des prestations. 
+- Le système doit gérer automatiquement la numérotation des factures.
+- Le système doit proposer un modèle de facturation par défaut 
 
 ### Installation
 
@@ -200,7 +209,6 @@ Voir le manuel manuel.pdf hébergé à cette adresse.
 #### Diagramme d'états/transitions d'une facture
 
 Ce diagramme aide à visualiser les différents états que peut posséder une facture au cours de son cycle de vie.
-
 
 <img src="./diagramme-etat-facture.png" width="600px"/>
 
