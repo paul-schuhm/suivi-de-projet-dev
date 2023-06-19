@@ -4,14 +4,18 @@ Le planning prévisionnel du module. Définit les objectifs de chaque séance et
 
 - [Planning : du 20/04/23 au 11/07/23](#planning--du-200423-au-110723)
   - [Dates clefs](#dates-clefs)
-  - [11/05/23](#110523)
+  - [22/06/23](#220623)
     - [Ordre du jour](#ordre-du-jour)
-    - [A faire pour le 12/05/23](#a-faire-pour-le-120523)
-    - [A faire pour le 19/06/23 (prochaine séance)](#a-faire-pour-le-190623-prochaine-séance)
-  - [20/04/23](#200423)
+  - [19/06/23](#190623)
     - [Ordre du jour](#ordre-du-jour-1)
-    - [A faire (pour le 11/05/23)](#a-faire-pour-le-110523)
-    - [Prochaine séance](#prochaine-séance)
+    - [A faire pour le 22/06/23](#a-faire-pour-le-220623)
+  - [11/05/23](#110523)
+    - [Ordre du jour](#ordre-du-jour-2)
+    - [A faire pour le 19/06/23](#a-faire-pour-le-190623)
+    - [A faire pour le 19/06/23](#a-faire-pour-le-190623-1)
+  - [20/04/23](#200423)
+    - [Ordre du jour](#ordre-du-jour-3)
+    - [A faire pour le 11/05/23](#a-faire-pour-le-110523)
   - [Ressources](#ressources)
 
 ## Dates clefs
@@ -21,6 +25,23 @@ Le planning prévisionnel du module. Définit les objectifs de chaque séance et
 - Livraison : 10/07/23
 - Démarrage du projet : 20/04/23
 
+## 22/06/23
+
+### Ordre du jour
+
+- Matin: cours remise à niveau Git et Git branching models. Remise d'un mini projet (une ou deux heures) évalué
+- Après midi : poursuite des projets
+
+## 19/06/23
+
+### Ordre du jour
+
+- Pas de cours aujourd'hui, les projets doivent avancer après cette pause de près d'un mois
+- Recentrer l'effort et reprioriser l'effort de développement, mettre à jour le cahier des charges
+
+### A faire pour le 22/06/23
+
+- Continuer le projet en fonction des points discutés en classe
 
 ## 11/05/23
 
@@ -29,14 +50,15 @@ Le planning prévisionnel du module. Définit les objectifs de chaque séance et
 - Revoir des outils de conception (diagrammes d'activités, états/transition)
 - Finir le cahier des charges
 - Démarrer l'implémentation du cas d'utilisation principal. Itération et allers/retours conception/implémentation
+- Remise à niveau éléments de conception (diagrammes d'activités, états/transition, classes)
 
-### A faire pour le 12/05/23
+### A faire pour le 19/06/23
 
-- Livrer une première version du cahier des charges. Il sera validé ou non
-- Proposer un premier planning: définir le contenu d'une première itération (ensemble d'exigences fonctionnelles) à réaliser (implémenter) pour la prochaine fois, le **19/06/23**. 
 - Chaque groupe présentera (5min) une démo de l'état de leur projet en début de séance
+- Livrer une première version du cahier des charges. Il sera validé ou non
+- Proposer un *premier planning*: définir le contenu d'une première itération (ensemble d'exigences fonctionnelles) à réaliser (implémenter). 
 
-### A faire pour le 19/06/23 (prochaine séance)
+### A faire pour le 19/06/23
 
 - implémenter le contenu de vos itérations pour aboutir à une première version de votre application
 
@@ -58,7 +80,7 @@ Démarrer le projet, définir le cahier des charges et le périmètre du projet,
   - Description textuelle des CU
   - Dictionnaire des données
 
-### A faire (pour le 11/05/23)
+### A faire pour le 11/05/23
 
 - URL du dépot (ou dépôt point d'entrée si plusieurs dépôts) à envoyer à l'adresse paul.schuhmacher@ynov.com
 - Le dépôt doit contenir :
@@ -71,10 +93,5 @@ Démarrer le projet, définir le cahier des charges et le périmètre du projet,
 
 > Tous ces documents vont subir des modifications, être revisités, améliorés. Essayer de garder trace de l'historique des modifications (dans un commit bien défini par exemple)
 
-### Prochaine séance 
-
-- Mise à niveau Git et Git branching models
-- Éléments de conception (diagrammes d'activités, états/transition, classes)
-- Continuer la conception et démarrer l'implémentation du cas d'utilisation principal. Itération et allers/retours conception/implémentation
 
 ## Ressources
