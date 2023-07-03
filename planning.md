@@ -4,16 +4,18 @@ Le planning prévisionnel du module. Définit les objectifs de chaque séance et
 
 - [Planning : du 20/04/23 au 11/07/23](#planning--du-200423-au-110723)
   - [Dates clefs](#dates-clefs)
-  - [22/06/23](#220623)
+  - [03/07/23](#030723)
     - [Ordre du jour](#ordre-du-jour)
-  - [19/06/23](#190623)
+  - [22/06/23](#220623)
     - [Ordre du jour](#ordre-du-jour-1)
+  - [19/06/23](#190623)
+    - [Ordre du jour](#ordre-du-jour-2)
     - [A faire pour le 22/06/23](#a-faire-pour-le-220623)
   - [11/05/23](#110523)
-    - [Ordre du jour](#ordre-du-jour-2)
+    - [Ordre du jour](#ordre-du-jour-3)
     - [A faire pour le 19/06/23](#a-faire-pour-le-190623)
   - [20/04/23](#200423)
-    - [Ordre du jour](#ordre-du-jour-3)
+    - [Ordre du jour](#ordre-du-jour-4)
     - [A faire pour le 11/05/23](#a-faire-pour-le-110523)
   - [Ressources](#ressources)
 
@@ -23,6 +25,19 @@ Le planning prévisionnel du module. Définit les objectifs de chaque séance et
 - Oraux blancs (préparation à la soutenance) : 11/07/23
 - Livraison : 10/07/23
 - Démarrage du projet : 20/04/23
+
+## 03/07/23
+
+### Ordre du jour
+
+> Travail en distanciel
+
+*Dernière semaine sur le projet*. Les apprenants ont été libérés de la plupart des autres projets dans d'autres modules. Ils vont pouvoir se concentrer davantage sur le projet.
+
+- *Prioriser* les exigences fonctionnelles essentielles
+- *Concentrer* les efforts de développement sur celles-ci
+- Arriver en milieu de semaine avec un premier livrable répondant aux exigences fonctionnelles priorisées
+- Jeudi 6 matin : module sur la Veille Technique
 
 ## 22/06/23
 
