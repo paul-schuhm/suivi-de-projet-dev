@@ -4,27 +4,63 @@ Le planning prévisionnel du module. Définit les objectifs de chaque séance et
 
 - [Planning : du 20/04/23 au 11/07/23](#planning--du-200423-au-110723)
   - [Dates clefs](#dates-clefs)
-  - [03/07/23](#030723)
+  - [10/07/23](#100723)
     - [Ordre du jour](#ordre-du-jour)
-  - [22/06/23](#220623)
+  - [07/07/23](#070723)
     - [Ordre du jour](#ordre-du-jour-1)
-  - [19/06/23](#190623)
+  - [06/07/23](#060723)
     - [Ordre du jour](#ordre-du-jour-2)
+  - [04/07/23](#040723)
+    - [Ordre du jour](#ordre-du-jour-3)
+  - [03/07/23](#030723)
+    - [Ordre du jour](#ordre-du-jour-4)
+  - [22/06/23](#220623)
+    - [Ordre du jour](#ordre-du-jour-5)
+  - [19/06/23](#190623)
+    - [Ordre du jour](#ordre-du-jour-6)
     - [A faire pour le 22/06/23](#a-faire-pour-le-220623)
   - [11/05/23](#110523)
-    - [Ordre du jour](#ordre-du-jour-3)
+    - [Ordre du jour](#ordre-du-jour-7)
     - [A faire pour le 19/06/23](#a-faire-pour-le-190623)
   - [20/04/23](#200423)
-    - [Ordre du jour](#ordre-du-jour-4)
+    - [Ordre du jour](#ordre-du-jour-8)
     - [A faire pour le 11/05/23](#a-faire-pour-le-110523)
   - [Ressources](#ressources)
 
 ## Dates clefs
 
-- Soutenance devant jury : 12/07/23
-- Oraux blancs (préparation à la soutenance) : 11/07/23
+- Soutenance devant jury : **12/07/23**
+- Oraux blancs (préparation à la soutenance) : **11/07/23**
 - Livraison : 10/07/23
 - Démarrage du projet : 20/04/23
+
+## 10/07/23
+
+### Ordre du jour
+
+
+- Matin : cours et évaluation (Devoir sur table 1h) sur la conception d'API RESTful
+- Après-midi : finitions sur les projets, révisions du cahier des charges pour chaque groupe
+
+## 07/07/23
+
+> Travail en distanciel
+
+### Ordre du jour
+
+- Continuer les projets pour respecter la date de livraison
+
+## 06/07/23
+
+### Ordre du jour
+
+- Continuer les projets pour respecter la date de livraison
+
+## 04/07/23
+
+### Ordre du jour
+
+- Continuer les projets pour respecter la date de livraison
 
 ## 03/07/23
 
@@ -37,7 +73,6 @@ Le planning prévisionnel du module. Définit les objectifs de chaque séance et
 - *Prioriser* les exigences fonctionnelles essentielles
 - *Concentrer* les efforts de développement sur celles-ci
 - Arriver en milieu de semaine avec un premier livrable répondant aux exigences fonctionnelles priorisées
-- Jeudi 6 matin : module sur la Veille Technique
 
 ## 22/06/23
 
