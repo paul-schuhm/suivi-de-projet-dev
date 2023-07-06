@@ -55,6 +55,7 @@ Le planning prévisionnel du module. Définit les objectifs de chaque séance et
 ### Ordre du jour
 
 - Continuer les projets pour respecter la date de livraison
+- Inclure le modèle conceptuel des données (MCD)
 
 ## 04/07/23
 
