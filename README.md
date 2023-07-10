@@ -41,6 +41,8 @@ Vous devez présenter votre projet avec un support. Inclure une démonstration d
 - 15 minutes de présentation
 - 5 minutes de questions
 
+Voir les [recommandations pour la soutenance](./soutenance.md).
+
 ## Livrables attendus
 
 - Archive de votre dépôt GIT de votre logiciel à jour (code source, historique des commits) documenté avec un README. README.md explique comment lancer votre application (refaites la procédure vous meme pour le vérifier !)
