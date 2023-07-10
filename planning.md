@@ -4,26 +4,28 @@ Le planning prévisionnel du module. Définit les objectifs de chaque séance et
 
 - [Planning : du 20/04/23 au 11/07/23](#planning--du-200423-au-110723)
   - [Dates clefs](#dates-clefs)
-  - [10/07/23](#100723)
+  - [11/07/23](#110723)
     - [Ordre du jour](#ordre-du-jour)
-  - [07/07/23](#070723)
+  - [10/07/23](#100723)
     - [Ordre du jour](#ordre-du-jour-1)
-  - [06/07/23](#060723)
+  - [07/07/23](#070723)
     - [Ordre du jour](#ordre-du-jour-2)
-  - [04/07/23](#040723)
+  - [06/07/23](#060723)
     - [Ordre du jour](#ordre-du-jour-3)
-  - [03/07/23](#030723)
+  - [04/07/23](#040723)
     - [Ordre du jour](#ordre-du-jour-4)
-  - [22/06/23](#220623)
+  - [03/07/23](#030723)
     - [Ordre du jour](#ordre-du-jour-5)
-  - [19/06/23](#190623)
+  - [22/06/23](#220623)
     - [Ordre du jour](#ordre-du-jour-6)
+  - [19/06/23](#190623)
+    - [Ordre du jour](#ordre-du-jour-7)
     - [A faire pour le 22/06/23](#a-faire-pour-le-220623)
   - [11/05/23](#110523)
-    - [Ordre du jour](#ordre-du-jour-7)
+    - [Ordre du jour](#ordre-du-jour-8)
     - [A faire pour le 19/06/23](#a-faire-pour-le-190623)
   - [20/04/23](#200423)
-    - [Ordre du jour](#ordre-du-jour-8)
+    - [Ordre du jour](#ordre-du-jour-9)
     - [A faire pour le 11/05/23](#a-faire-pour-le-110523)
   - [Ressources](#ressources)
 
@@ -34,13 +36,21 @@ Le planning prévisionnel du module. Définit les objectifs de chaque séance et
 - Livraison : **11/07/23 avant 12h**
 - Démarrage du projet : 20/04/23
 
+## 11/07/23
+
+### Ordre du jour
+
+- Finalisation des supports de soutenance
+- Oraux blancs
+- Cours et évaluation (Devoir sur table 1h) sur la conception d'API RESTful
+
 ## 10/07/23
 
 ### Ordre du jour
 
-
-- Matin : cours et évaluation (Devoir sur table 1h) sur la conception d'API RESTful
-- Après-midi : finitions sur les projets, révisions du cahier des charges pour chaque groupe
+- Finir les derniers développements
+- Révision du cahier des charges pour chaque groupe
+- Préparation du support de soutenance
 
 ## 07/07/23
 
