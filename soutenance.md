@@ -29,9 +29,8 @@
   - planning
 - Implémentation
   - Stack technique
-  - Discuter des cas d'utilisation intéressants de votre système, choix effectués (avantages/inconvénients)
-  - Mettre en avant votre
-  - *Mettre en avant vos choix d'architecture* : séparation des responsabilités (MVC), design de votre API REST
+  - Discuter des cas d'utilisation intéressants de votre système (lié à votre défi technique), choix effectués (avantages/inconvénients)
+  - *Mettre en avant vos choix d'architecture* : montrer que vous avez su mettre en place la séparation des responsabilités (MVC, application client vs backend),  concevoir une API REST
   - Programmation asynchrone : quand, pourquoi
   - Sécurité de votre application
 - *Démo live* (2 à 5minutes)
