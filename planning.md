@@ -29,9 +29,9 @@ Le planning prévisionnel du module. Définit les objectifs de chaque séance et
 
 ## Dates clefs
 
-- Soutenance devant jury : **12/07/23**
+- Soutenance devant jury : **12/07/23** à 14h
 - Oraux blancs (préparation à la soutenance) : **11/07/23**
-- Livraison : 10/07/23
+- Livraison : **11/07/23 avant 12h**
 - Démarrage du projet : 20/04/23
 
 ## 10/07/23

@@ -47,12 +47,17 @@ Un *bon* cahier des charges :
 8. **Exigences *non fonctionnelles***: qualité, fiabilité, sécurité 
 9. **Contraintes** : techniques, performances
 10. **Prestations attendues**
-    1.  Planning
-    2.  Installation (comment déployer votre système => README de votre dépôt)
-    3.  Documentation technique (diagrammes UML)
+    1.  Equipes, responsabilités
+    2.  Itération 1
+    3.  Planning
+    4.  Installation (comment déployer votre système => README de votre dépôt)
+    5.  Documentation technique (diagrammes UML)
 11. **Annexes**
     1.  Liste des abréviations et des conventions
-    2.  **Dictionnaire des données** => conception de la base de données
+    2.  Technologies utilisées
+    3.  **Dictionnaire des données** => conception de la base de données
+    4.  Captures d'écran
+    5.  Difficultés rencontrées
 
 > Ce document servira à **valider** votre projet.
 

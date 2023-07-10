@@ -36,10 +36,15 @@ UF *Spé INGENIERIE LOGICIELLE et Base de données*
 
 Le projet sera soutenu devant un jury.
 
+Vous devez présenter votre projet avec un support. Inclure une démonstration de votre application en live.
+
+- 15 minutes de présentation
+- 5 minutes de questions
+
 ## Livrables attendus
 
-- Dépôt GIT de votre logiciel à jour (code source, historique des commits) documenté avec un README;
-- Cahier des charges;
+- Archive de votre dépôt GIT de votre logiciel à jour (code source, historique des commits) documenté avec un README. README.md explique comment lancer votre application (refaites la procédure vous meme pour le vérifier !)
+- Cahier des charges
 - Exécutable de vos logiciels;
 - Slides de votre présentation.
 

@@ -66,6 +66,7 @@ Objectifs *secondaires* de votre système (ou qualités du système) : architect
 
 ## Prestations attendues
 
+- Contenu de l'itération
 - Planning prévisionnel
 - Installation (comment déployer votre système => README de votre dépôt)
 - Documentation technique (vos diagrammes UML, autre docs)
@@ -73,9 +74,11 @@ Objectifs *secondaires* de votre système (ou qualités du système) : architect
 ## Annexes
 
 - Liste des abréviations et des conventions
+- Stack technique: les outils utilisés (avec leurs versions) pour chaque partie de votre système
 - Glossaire : définition des documents, objets métiers 
 - **Dictionnaire des données** (pour conception de la base de données)
 - Lien vers votre dépôt
+- Captures d'écran de votre application ou code
 - Compte rendus de vos réunions (CR). Un CR contient au moins
   - date
   - lieu
@@ -86,4 +89,3 @@ Objectifs *secondaires* de votre système (ou qualités du système) : architect
   - actions à mener (ce que chacun doit faire pour réaliser les décisions)
   - commentaires: ce qu'il s'est bien passé ou non
 - Lien vers votre suivi des tâches si vous en utilisez un (Trello, etc.)
-- Stack technique: les outils utilisés (avec leurs versions) pour chaque partie de votre système
