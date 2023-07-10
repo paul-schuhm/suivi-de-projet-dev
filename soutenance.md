@@ -21,18 +21,19 @@
 
 ### Structure
 
-- Présentation du projet : objectifs haut niveau (sans trop rentrer dans les détails)
-- Conception : Périmètre, Cas d'utilisation (diagramme UML), Exigences fonctionnelles, non fonctionnelles, contraintes techniques, règles métier, schéma de la base 
+- Présentation du projet : *objectifs haut niveau* (sans trop rentrer dans les détails)
+- *Conception* : Périmètre, Cas d'utilisation (diagramme UML), Exigences fonctionnelles, non fonctionnelles, contraintes techniques, règles métier, schéma de la base 
 - Prestation
   - Équipe, organisation
-  - iteration
+  - iteration (contenu)
   - planning
 - Implémentation
   - Stack technique
   - Discuter des cas d'utilisation intéressants de votre système, choix effectués (avantages/inconvénients)
-  - Discuter d'un choix d'architecture (Design pattern, MVC, etc.)
+  - *Mettre en avant vos choix d'architecture* : séparation des responsabilités (MVC), design de votre API REST
+  - Programmation asynchrone : quand, pourquoi
   - Sécurité de votre application
-- Démo live (2 à 5minutes)
+- *Démo live* (2 à 5minutes)
 - Conclusion
   - Objectifs atteints
   - Objectifs non atteints
