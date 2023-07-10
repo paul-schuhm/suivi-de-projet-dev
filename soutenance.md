@@ -17,6 +17,7 @@
 - Votre dernière slide de conclusion (quand vous avez fini) doit présenter de l'information utile. Pas de slide "Merci"
 - **numéroter les slides**
 - Épurer les diapos (hiérarchie de contenu claire, bon contraste)
+- Pas de fautes
 
 ### Structure
 
@@ -29,6 +30,7 @@
 - Implémentation
   - Stack technique
   - Discuter des cas d'utilisation intéressants de votre système, choix effectués (avantages/inconvénients)
+  - Discuter d'un choix d'architecture (Design pattern, MVC, etc.)
   - Sécurité de votre application
 - Démo live (2 à 5minutes)
 - Conclusion
