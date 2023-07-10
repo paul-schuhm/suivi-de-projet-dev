@@ -8,6 +8,7 @@ Le planning prévisionnel du module. Définit les objectifs de chaque séance et
     - [Ordre du jour](#ordre-du-jour)
   - [10/07/23](#100723)
     - [Ordre du jour](#ordre-du-jour-1)
+    - [A faire pour le 11/07/23](#a-faire-pour-le-110723)
   - [07/07/23](#070723)
     - [Ordre du jour](#ordre-du-jour-2)
   - [06/07/23](#060723)
@@ -51,6 +52,11 @@ Le planning prévisionnel du module. Définit les objectifs de chaque séance et
 - Finir les derniers développements
 - Révision du cahier des charges pour chaque groupe
 - Préparation du support de soutenance
+
+### A faire pour le 11/07/23
+
+- Avoir une première version du support de soutenance
+- Avoir fini et publié le cahier des charges au format PDF
 
 ## 07/07/23
 
