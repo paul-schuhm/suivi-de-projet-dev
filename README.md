@@ -45,10 +45,9 @@ Voir les [recommandations pour la soutenance](./soutenance.md).
 
 ## Livrables attendus
 
-- Archive de votre dépôt GIT de votre logiciel à jour (code source, historique des commits) documenté avec un README. README.md explique comment lancer votre application (refaites la procédure vous meme pour le vérifier !)
-- Cahier des charges
+- Archive de votre dépôt GIT de votre logiciel à jour (code source, historique des commits) documenté avec un `README` qui explique comment lancer votre application (refaites la procédure vous meme pour le vérifier !)
+- Cahier des charges publié au format PDF
 - Exécutable de vos logiciels;
-- Slides de votre présentation.
 
 ## Pré-requis *minimum* du projet du point de vue technique
 
